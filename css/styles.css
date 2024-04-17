@@ -37,7 +37,7 @@ main {
   align-items: center; /* This centers the children of .mainContainer horizontally along the cross axis */
   display: flex;
   flex-direction: column;
-  height: 90vh; /* This ensures that the body takes the full viewport height.The only way to centered vertically is to use this on main */
+  height: 95vh; /* This ensures that the body takes the full viewport height.The only way to centered vertically is to use this on main */
 }
 
 .articleContainer {
@@ -61,7 +61,7 @@ main {
   margin-bottom: 1rem;
 }
 
-h2 {
+h1 {
   font-family: Outfit;
   font-weight: 700;
   width: 300px;
@@ -72,12 +72,12 @@ h2 {
   transition-timing-function: ease;
 }
 
-h2:is(:hover, :focus) {
+h1:is(:hover, :focus) {
   transform: scale(1.2);
   color: var(--color-blue);
 }
 
-h2:hover {
+h1:hover {
   color: var(--color-blue);
 }
 p {
@@ -94,4 +94,5 @@ p {
 footer {
   display: flex;
   justify-content: center;
+  margin-top: 1rem;
 }
