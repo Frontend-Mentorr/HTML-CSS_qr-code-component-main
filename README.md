@@ -33,8 +33,8 @@ Then crop/optimize/edit your image however you like, add it to your project, and
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/Frontend-Mentorr/HTML-CSS_qr-code-component-main)
-- Live Site URL: [Add live site URL here](https://frontend-mentorr.github.io/HTML-CSS_qr-code-component-main/)
+- Solution URL: (https://github.com/Frontend-Mentorr/HTML-CSS_qr-code-component-main)
+- Live Site URL: (https://frontend-mentorr.github.io/HTML-CSS_qr-code-component-main/)
 
 ## My process
 
