@@ -46,7 +46,7 @@ main {
   flex-direction: column;
   justify-content: center;
   align-items: center;
-  border-radius: 15px;
+  border-radius: 20px;
   padding: 1.5rem;
   background-color: var(--color-white);
   box-shadow: 0 0 10px rgba(0 0 0 / 40%);
