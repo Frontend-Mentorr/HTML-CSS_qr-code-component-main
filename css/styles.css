@@ -73,13 +73,11 @@ h1 {
 }
 
 h1:is(:hover, :focus) {
+  /*using is to combine style selectors*/
   transform: scale(1.2);
   color: var(--color-blue);
 }
 
-h1:hover {
-  color: var(--color-blue);
-}
 p {
   font-family: Outfit;
   font-weight: 400;
