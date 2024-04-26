@@ -25,7 +25,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Links
 
-- Solution URL: (https://github.com/Junbol-Frontend-Mentor/HTML-CSS_qr-code-component-main)
+- Solution URL: (https://github.com/Junbol-Frontend-Mentor/HTML-CSS_qr-code-component-main/HTML-CSS_qr-code-component-main)
 - Live Site URL: (https://junbol-frontend-mentor.github.io/HTML-CSS_qr-code-component-main/)
 
 ## My process
@@ -36,6 +36,8 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 - CSS custom properties
 - Flexbox
 - Mobile-first workflow
+- GIT/GitHub
+- PowerShell Command line
 
 ### What I learned
 
