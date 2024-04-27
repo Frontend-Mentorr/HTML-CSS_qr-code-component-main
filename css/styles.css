@@ -1,7 +1,7 @@
 /* Import "EB Garamond" from Google Fonts */
 @import url('https://fonts.googleapis.com/css2?family=Outfit:wght@100..900&display=swap');
 
-// Universal reset also explicitly to all pseudo-elements 
+/* Universal reset also explicitly to all pseudo-elements */
 *,
 *::before,
 *::after {
