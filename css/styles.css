@@ -5,9 +5,9 @@
 *,
 *::before,
 *::after {
-    margin: 0;
-    padding: 0;
-    box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
 }
 /*-----declaring the root pseudo-class to use global color variables  styles to use them across the html doc-----*/
 :root {
@@ -33,15 +33,15 @@ body {
 
 main {
   display: flex;
+  flex-direction: column;
   justify-content: center; /* This centers the children of .mainContainer vertically along the main axis */
   align-items: center; /* This centers the children of .mainContainer horizontally along the cross axis */
-  display: flex;
-  flex-direction: column;
   height: 95vh; /* This ensures that the body takes the full viewport height.The only way to centered vertically is to use this on main */
+  padding: 1rem;
 }
 
 .articleContainer {
-  width: 360px;
+  width: 100%;
   display: flex;
   flex-direction: column;
   justify-content: center;
