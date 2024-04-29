@@ -18,29 +18,6 @@
   --color-blue: hsl(217, 86%, 42%);
 }
 
-/* Decorative styles */
-
-/* body {
-  height: 95vh; 
-  background-image: url(../assets/images/bg-pattern-card.svg);
-  background-repeat: no-repeat;
-  background-size: 700%; 
-  min-height: 100vh;
-  margin: 0;
-  padding: 0;
-}
-
-.container {
-  flex: 1 0 auto;
-  display: flex;
-  flex-direction: column;
-  align-items: center; 
-  width: 100%;
-  margin: 0 auto; 
-  padding: 1rem;
-  margin-bottom: 2rem;
-} */
-
 /* Query for mobiles */
 html,
 body {
@@ -128,4 +105,11 @@ footer {
   display: flex;
   justify-content: center;
   margin-top: 1rem;
+}
+
+@media (min-width: 375px) {
+  .card {
+    width: 400px;
+    margin-top: 5rem;
+  }
 }
