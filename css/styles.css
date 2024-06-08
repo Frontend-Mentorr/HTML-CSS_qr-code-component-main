@@ -65,6 +65,7 @@ main {
   align-items: center;
   border-radius: 10px;
   background-image: url(../images/image-qr-code.png); /* Adjust this to cover or a specific percentage depending on your needs, this works better when you neeed an image to cover a div */
+  background-size: cover;
   background-position: center; /* Centers the background image */
   background-repeat: no-repeat; /* Prevents the image from repeating */
   aspect-ratio: 1 / 1; /* Maintains square aspect ratio */
